@@ -10,5 +10,5 @@ https://github.com/crf-bruxvojr/JB-Computer-Networks-BLAST02-Future-Networks/blo
 Many of these technologies greatly increase the speed at which we use the internet, as well as it's reach.
 A lot of these are limited by the fact that our current tech just isn't ready for them yet.
 https://youtu.be/mu3Rx1S96ZE
-
+https://lnkd.in/p/g3cYRApm
 https://github.com/crf-bruxvojr/JB-Computer-Networks-BLAST02-Future-Networks/blob/abcdba601eb51c51a3f1b8d10b4aa27ee96cac03/References
