@@ -1,0 +1,69 @@
+WE’VE BEEN THROUGH THE ONES ON THE LEFT LAST VIDEO
+Delays may be a result of network congestion, which leads to packet loss
+Because delay is made up of so many little things, simply increasing the speed of one component doesn’t eliminate network delay, congestion, or packet loss
+
+
+6G will improve Throughput/amount of data that can be transferred at once, in turn decreasing network congestion as well as delays
+
+
+• Screenshot of the experiment
+	Above
+• Explanation of what was measured
+	The ping for travelling to google.com (aka the time it takes to send a “Ping Packet” there, and receive the “Pong Packet” back
+• Interpretation of the results
+	It took only 4 milliseconds on average to reach 
+• Relationship to delay, routing, protocols, throughput, or packet behavior
+	This is a protocol that essentially measures Packet Behavior through it’s timing, sending them on routes, to measure the delay and estimate the throughput.
+
+RESEARCH
+Studies by the Institute of Electrical and Electronics Engineers (or IEEE) have shown that with AI alone, we could make our networks faster with the ability to predict and manage traffic, and that these could even lead to a greener internet
+
+
+I do not care for AI in the slightest, however it’s hard to put the toothpaste back in the tube, and it can be used for some useful things IF applied right.
+(list first 3 points)
+The AI has latency of it’s own to run
+It’s also a robust ATTACK method
+Our internet has a LOT of noise and irregularities, something that AI has been shown to struggle with.
+Even when set up, new Anomalies could influence its data, and lead to future incorrect decisions
+
+
+THIS IS NOT ABOUT CRYPTO
+- Blockchain is where a record, or “block”, cannot be altered without the agreement of all participants
+- Nature of the blockchain offers significantly enhanced security, which can be beneficial for many fields such as Healthcare and the Military
+
+
+Start with a application-layer Message
+Grouped with transport layer header to create a segment to be sent
+Said segment is placed within a network-layer Packet, or Datagram
+The packet is then encapsulated by a link-layer header to create the frame
+All of this is sent as bits across the internet
+
+New technologies such as AI, 6G can live alongside Encapsulation, as they mainly make the current internet faster and more efficient
+Others, such as Blockchain or Quantum networking will, given their drastic changes to how the internet works. No need to disguise a message for its trip across the internet if the data’s just teleported from place to place
+
+
+Packet Switching is what acted as the foundation for the internet, which was iterated on by ARPAnet, and later ALOHAnet
+(NCP is Network Control Program)
+C&K came to define today’s internet architecture
+Transmission Control / Internet Protocols
+Domain Name System, turns names into IP addresses
+Broadband helped give homes access (very aggressive)
+
+We are currently at SDN or Software-Defined Networking.
+Personally, I’m not sure we’ll achieve true wide-spread quantum computing, what with everything that needs to go into it, at least not in our lifetimes, or course that’s only my own prediction.
+Now, as for the one I believe will cause the greatest change in networking in the next 10 years is likely AI Native Networks. AI on it’s own has already proved to be revolutionary within multiple industries, especially with the sharp rise of “Vibe coding”. So, with the AI now built into the Internet itself, It’s hard to imagine a similar process won’t follow. There’s also it’s previously stated quirks, which may necessitate the creation of special “walls” built around them to stop them from potentially going off the rails.
+
+
+Drastic improvement over 5G, from density of connections, Latency, Bandwidth, Data Rate, Mobility, and Energy Efficiency
+According to a 2019 study performed on the roadmap of 6G by members of IEEE, Study of 6G has already ended, determining specifications are ongoing, and they predict it’ll launch around early 2028.
+The main limitation is our own tech, we just don’t have what we need to fully utilize 6G
+Would provide a huge impact, given just how digital or “smart” many things are becoming. Phones, Cars, Fridges. It also opens the door to even more new developments
+
+
+The pictured Diagram is one of my own design, meant to represent a hypothetical network in 2035.
+Right now, we have Devices, Routers, and the cloud (You’re already using all three in tandem right now to watch this)
+Cybersecurity is something that’s existed for years, many of us were taught it in school
+The blockchain, even if it’s mainly used on less helpful things like Cryptocurrency or NFTs, exists
+
+AI, while it does exist, isn’t quite in the state to do some of the more complex things we want it to do for controlling networks. Furthermore, it needs 6G, which is itself still experimental, not yet having released anywhere.
+Quantum, meanwhile, is still all mostly hypotheticals for, thus it’s only Experimental.
